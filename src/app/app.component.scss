@@ -1,0 +1,19 @@
+.sc__wrapper {
+  height: 90vh;
+}
+
+.default-background {
+  background-size: cover;
+}
+
+.bottom-background {
+  background-repeat: no-repeat !important;
+  background-position: bottom !important;
+}
+
+.scratch-card-bottom {
+  margin-top: 20px;
+  .card-bottom-text {
+    font-size: 1.2em;
+  }
+}
